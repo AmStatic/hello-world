@@ -1,5 +1,5 @@
 # hello-world
-My name is AmStatic, I studied to be a programmer in 1986-1989 but since then I have not written a single line of code...  Yes the horror... I went over to the Dark side call Infrastructure.
+My name is AmStatic, I studied to be a programmer in 1986-1989 but since then I have not written a single line of code...  Yes the horror... I went over to the DarkSide call Infrastructure.
 
 I attended Build 202 0nline, and this has reignited in me the love for coding.
 
