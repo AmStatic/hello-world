@@ -7,4 +7,3 @@ But now I am a noobie, There is no more BASIC, COBOL and RPG@, it is all now C++
 
 Well this ramble is just to confirm that I can get VS Code working with my github.
 
-Peace..
